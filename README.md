@@ -31,7 +31,7 @@ A:  翻译的过程能帮助我们集中注意力，去理解作者表达的意�
 
 <details>
 
-<summary>第一章 量化设计和分析的基础知识</summary>
+<summary><a href="di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/">第一章 量化设计和分析的基础知识</a></summary>
 
 * [x] [摘要](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/zhai-yao.md)
 * [x] [1.1 介绍](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/1.1-jie-shao.md)
@@ -49,6 +49,52 @@ A:  翻译的过程能帮助我们集中注意力，去理解作者表达的意�
 
 </details>
 
+<details>
 
+<summary>第二章 内存层次结构设计</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>第三章 指令级并行及其应用</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>第四章 矢量、SIMD和GPU架构中的数据并行性</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>第五章 线程级并行</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>第六章 大规模数据中心级计算机的并行性：请求级并行（RLP）和数据级并行</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>第七章 领域特定架构（DSA）</summary>
+
+
+
+</details>
 
 译者：[mxlol233](https://github.com/TuringKi)
