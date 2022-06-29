@@ -53,6 +53,8 @@
   * [1.10 把它们放在一起：性能、价格和功耗](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/1.10-ba-ta-men-fang-zai-yi-qi-xing-neng-jia-ge-he-gong-hao.md)
   * [1.11 谬误和陷阱](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/1.11-miu-wu-he-xian-jing.md)
   * [1.12 结论](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/1.12-jie-lun.md)
+  * [1.13 历史观点和引用](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/1.13-li-shi-guan-dian-he-yin-yong.md)
+  * [案例研究和习题](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/an-li-yan-jiu-he-xi-ti.md)
 * [第二章 内存层次结构设计](di-er-zhang-nei-cun-ceng-ci-jie-gou-she-ji.md)
 * [第三章 指令级并行及其应用](di-san-zhang-zhi-ling-ji-bing-hang-ji-qi-ying-yong.md)
 * [第四章 矢量、SIMD和GPU架构中的数据级并行性](di-si-zhang-shi-liang-simd-he-gpu-jia-gou-zhong-de-shu-ju-ji-bing-hang-xing.md)

@@ -44,8 +44,10 @@ A:  翻译的过程能帮助我们集中注意力，去理解作者表达的意�
 * [x] 1[.8 评测、报告和总结性能](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/1.8-ping-ce-bao-gao-he-zong-jie-xing-neng/)
 * [x] [1.9 计算机量化设计原则](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/1.9-ji-suan-ji-liang-hua-she-ji-yuan-ze/)
 * [x] [1.10 把它们放在一起：性能、价格和功耗](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/1.10-ba-ta-men-fang-zai-yi-qi-xing-neng-jia-ge-he-gong-hao.md)
-* [ ] [1.11 谬误和陷阱](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/1.11-miu-wu-he-xian-jing.md)
-* [ ] [1.12 结论](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/1.12-jie-lun.md)
+* [x] [1.11 谬误和陷阱](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/1.11-miu-wu-he-xian-jing.md)
+* [x] [1.12 结论](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/1.12-jie-lun.md)
+* [x] [1.13 历史观点和引用](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/1.13-li-shi-guan-dian-he-yin-yong.md)
+* [ ] [案例研究和习题](di-yi-zhang-liang-hua-she-ji-he-fen-xi-de-ji-chu-zhi-shi/an-li-yan-jiu-he-xi-ti.md)
 
 </details>
 
