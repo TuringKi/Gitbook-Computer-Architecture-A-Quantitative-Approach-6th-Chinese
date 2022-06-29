@@ -99,4 +99,13 @@ A:  翻译的过程能帮助我们集中注意力，去理解作者表达的意�
 
 </details>
 
+<details>
+
+<summary><a href="fu-lubnei-cun-ceng-ci-jie-gou-de-hui-gu/">附录B 内存层次结构的回顾</a></summary>
+
+* [x] [摘要](fu-lubnei-cun-ceng-ci-jie-gou-de-hui-gu/zhai-yao.md)
+* [ ] [B.1 介绍](fu-lubnei-cun-ceng-ci-jie-gou-de-hui-gu/b.1-jie-shao/)
+
+</details>
+
 译者：[mxlol233](https://github.com/TuringKi)

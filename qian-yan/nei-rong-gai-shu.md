@@ -4,7 +4,7 @@
 
 我们的观点是，与1990年相比，今天的指令集结构所起的作用较小，因此我们将这一材料移到了[附录A](../fu-luazhi-ling-ji-she-ji-yuan-ze.md)。它现在使用RISC-V架构。(为了快速回顾，RISC-V ISA的摘要可以在封面内页找到)。对于ISA的爱好者来说，[附录K](../fu-lukzhi-ling-ji-jia-gou-de-hui-gu.md)为这个版本进行了修订，涵盖了8种RISC架构（5种用于桌面和服务器，3种用于嵌入式）、80×86、DEC VAX和IBM 360/370。
 
-然后，我们在[第二章](../di-er-zhang-nei-cun-ceng-ci-jie-gou-she-ji.md)中转入内存的层次结构，因为很容易将成本-性能-功耗原则应用到这个问题中，而且内存是其余章节的关键资源。和过去的版本一样，[附录B](../fu-lubnei-cun-ceng-ci-jie-gou-de-hui-gu.md)包含了对高速缓存原理的介绍性回顾，可以在你需要的时候使用。[第二章](../di-er-zhang-nei-cun-ceng-ci-jie-gou-she-ji.md)讨论了缓存的10个高级优化技术。本章也将介绍虚拟机，它在保护、软件管理和硬件管理方面具有优势，并在云计算中发挥着重要作用。除了涵盖SRAM和DRAM技术外，该章还包括关于闪存和使用堆叠式芯片封装来扩展内存层次的资料介绍。PIAT的例子是用于PMD的ARM Cortex A8和用于服务器的Intel Core i7。
+然后，我们在[第二章](../di-er-zhang-nei-cun-ceng-ci-jie-gou-she-ji.md)中转入内存的层次结构，因为很容易将成本-性能-功耗原则应用到这个问题中，而且内存是其余章节的关键资源。和过去的版本一样，[附录B](../fu-lubnei-cun-ceng-ci-jie-gou-de-hui-gu/)包含了对高速缓存原理的介绍性回顾，可以在你需要的时候使用。[第二章](../di-er-zhang-nei-cun-ceng-ci-jie-gou-she-ji.md)讨论了缓存的10个高级优化技术。本章也将介绍虚拟机，它在保护、软件管理和硬件管理方面具有优势，并在云计算中发挥着重要作用。除了涵盖SRAM和DRAM技术外，该章还包括关于闪存和使用堆叠式芯片封装来扩展内存层次的资料介绍。PIAT的例子是用于PMD的ARM Cortex A8和用于服务器的Intel Core i7。
 
 [第三章](../di-san-zhang-zhi-ling-ji-bing-hang-ji-qi-ying-yong.md)涉及高性能处理器中指令级并行的使用，包括超标量执行、分支预测（包括新的标记混合预测器）、推测、动态调度和同步多线程。如前所述，[附录C](../fu-lucliu-shui-xian-chu-ji-he-zhong-ji-gai-nian.md)是对流水线的回顾，以防你需要它。[第三章](../di-san-zhang-zhi-ling-ji-bing-hang-ji-qi-ying-yong.md)还探讨了ILP的局限性。和[第二章](../di-er-zhang-nei-cun-ceng-ci-jie-gou-she-ji.md)一样，PIAT的例子还是ARM Cortex A8和Intel Core i7。虽然第三版包含了大量关于Itanium和VLIW的内容，但这些材料现在在附录H中，表明我们认为这种架构没有达到早期的要求。
 
@@ -18,7 +18,7 @@
 
 [附录A](../fu-luazhi-ling-ji-she-ji-yuan-ze.md)涵盖了ISA的原理，包括RISC-V，[附录K](../fu-lukzhi-ling-ji-jia-gou-de-hui-gu.md)描述了64位版本的RISC V、ARM、MIPS、Power和SPARC及其多媒体扩展。它还包括一些经典架构（80x86、VAX和IBM 360/370）和流行的嵌入式指令集（Thumb-2、microMIPS和RISCV C）。[附录H](../fu-lu-hvliw-he-epic-de-ying-jian-he-ruan-jian.md)是相关的，因为它涵盖了VLIW ISA的架构和编译器。
 
-如前所述，[附录B](../fu-lubnei-cun-ceng-ci-jie-gou-de-hui-gu.md)和[附录C](../fu-lucliu-shui-xian-chu-ji-he-zhong-ji-gai-nian.md)是关于基本缓存和流水线概念的教程。对缓存比较陌生的读者应该在[第二章](../di-er-zhang-nei-cun-ceng-ci-jie-gou-she-ji.md)之前阅读[附录B](../fu-lubnei-cun-ceng-ci-jie-gou-de-hui-gu.md)，而对流水线比较陌生的读者应该在第三章之前阅读[附录C](../fu-lucliu-shui-xian-chu-ji-he-zhong-ji-gai-nian.md)。
+如前所述，[附录B](../fu-lubnei-cun-ceng-ci-jie-gou-de-hui-gu/)和[附录C](../fu-lucliu-shui-xian-chu-ji-he-zhong-ji-gai-nian.md)是关于基本缓存和流水线概念的教程。对缓存比较陌生的读者应该在[第二章](../di-er-zhang-nei-cun-ceng-ci-jie-gou-she-ji.md)之前阅读[附录B](../fu-lubnei-cun-ceng-ci-jie-gou-de-hui-gu/)，而对流水线比较陌生的读者应该在第三章之前阅读[附录C](../fu-lucliu-shui-xian-chu-ji-he-zhong-ji-gai-nian.md)。
 
 [附录D](../fu-ludcun-chu-xi-tong.md)，"存储系统"，扩充了如下内容：对可靠性和可用性的讨论，对RAID进行了指导性介绍，对RAID 6方案进行了描述，并对真实系统的故障统计数据进行了罕见的介绍。它继续提供了对排队理论和I/O性能基准的介绍。我们评估了一个真实集群的成本、性能和可靠性：互联网档案馆（Internet Archive）。“把它放在一起”的例子是NetApp FAS6000档案机。
 
