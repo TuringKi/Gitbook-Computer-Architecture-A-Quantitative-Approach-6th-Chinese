@@ -66,6 +66,7 @@
   * [摘要](fu-lubnei-cun-ceng-ci-jie-gou-de-hui-gu/zhai-yao.md)
   * [B.1 介绍](fu-lubnei-cun-ceng-ci-jie-gou-de-hui-gu/b.1-jie-shao/README.md)
     * [缓存性能回顾](fu-lubnei-cun-ceng-ci-jie-gou-de-hui-gu/b.1-jie-shao/huan-cun-xing-neng-hui-gu.md)
+    * [四个内存层次的问题](fu-lubnei-cun-ceng-ci-jie-gou-de-hui-gu/b.1-jie-shao/si-ge-nei-cun-ceng-ci-de-wen-ti.md)
 * [附录C-流水线：初级和中级概念](fu-lucliu-shui-xian-chu-ji-he-zhong-ji-gai-nian.md)
 * [附录D-存储系统](fu-ludcun-chu-xi-tong.md)
 * [附录E-嵌入式系统](fu-lueqian-ru-shi-xi-tong.md)
